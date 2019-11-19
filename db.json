@@ -1,8 +1,8 @@
 {
   "debitur": [ 
-               {"noLoan":"12300001", "nama":"AGUS", "alamatRumah":"Jl. argopuro no.31", "alamatUsaha":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDp90QpbBGaHWw9USskFHqbxeEEdfQvMPQ0HrVt1oc3-clTPPa"},
-               {"noLoan":"12300002", "nama":"BOWO","alamatRumah":"Jl. argopuro no.31", "alamatUsaha":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIebmapz-WGUXC4OXVUkKBPpadK6B3eCQwtYYCUFnolQvudgKN"},
-               {"noLoan":"12300003", "nama":"CAHYO","alamatRumah":"Jl. argopuro no.31", "alamatUsaha":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0YKykMVUC7oGufeb5stgLMJpi2B_hjlVnHj3kJQlrOLuDifw"},
-               {"noLoan":"12300004", "nama":"BAGUS","alamatRumah":"Jl. argopuro no.31", "alamatUsaha":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0YKykMVUC7oGufeb5stgLMJpi2B_hjlVnHj3kJQlrOLuDifw"}
+               {"noLoan":"12300001", "nama":"AGUS", "alamat":"Jl. argopuro no.31",  "jenisUsaha":"Perdagangan", "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDp90QpbBGaHWw9USskFHqbxeEEdfQvMPQ0HrVt1oc3-clTPPa"},
+               {"noLoan":"12300002", "nama":"BOWO","alamat":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIebmapz-WGUXC4OXVUkKBPpadK6B3eCQwtYYCUFnolQvudgKN"},
+               {"noLoan":"12300003", "nama":"CAHYO","alamat":"Jl. argopuro no.31",  "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0YKykMVUC7oGufeb5stgLMJpi2B_hjlVnHj3kJQlrOLuDifw"},
+               {"noLoan":"12300004", "nama":"BAGUS","alamat":"Jl. argopuro no.31", "jenisUsaha":"Perdagangan", "fotoUsaha":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0YKykMVUC7oGufeb5stgLMJpi2B_hjlVnHj3kJQlrOLuDifw"}
              ]
 }
