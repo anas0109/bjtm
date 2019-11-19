@@ -1,16 +1,18 @@
 {
-  "noLoan":"12300001",
-  "nama":"AGUS"
-},
-{
-  "noLoan":"12300002",
-  "nama":"BOWO"
-},
-{
-  "noLoan":"12300003",
-  "nama":"CAHYO"
-},
-{
-  "noLoan":"12300004",
-  "nama":"BAGUS"
+  "debitur": {
+    "noLoan":"12300001",
+    "nama":"AGUS"
+  },
+   "debitur":{
+    "noLoan":"12300002",
+    "nama":"BOWO"
+  },
+  "debitur":{
+    "noLoan":"12300003",
+    "nama":"CAHYO"
+  },
+  "debitur":{
+    "noLoan":"12300004",
+    "nama":"BAGUS"
+  }
 }
